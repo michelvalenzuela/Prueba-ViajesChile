@@ -10,6 +10,12 @@
     padding-rigt: 50px;    
 }
 
+.carousel-inner img {
+
+    height: 50em;
+
+}
+
 .logo { 
     height: 2vw;
     margin-bottom: 20px;
@@ -45,6 +51,21 @@ section h2{
 
 section p {
     color:white;
+
+
+}
+
+.card-body {
+    color:white;
+    text-align: left;
+
+
+}
+
+.card img{
+
+    height: 150px;
+
 
 }
  
