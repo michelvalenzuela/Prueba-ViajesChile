@@ -1,0 +1,31 @@
+
+.navbar {
+    background: none;
+  }
+.navbar-brand {
+    padding: 0;
+    width: 35vw;
+    float: left;
+    
+    padding-rigt: 50px;    
+}
+
+.logo { 
+    height: 2vw;
+    margin-bottom: 20px;
+    
+    }
+
+ .logo img{
+   
+   width: 8%;
+    fill: none;
+
+ }
+
+ .navbar ul{
+    margin-left: 50%;
+
+ }
+ 
+ 
