@@ -27,5 +27,24 @@
     margin-left: 50%;
 
  }
+
+section h2{
+    text-align: center;
+    color:white;
+}
+
+ .fondo{
+    
+    background-color: black;
+
+ }
  
+.color-fav{
+    background-color: #0dcaf0;
+}
+
+section p {
+    color:white;
+
+}
  
