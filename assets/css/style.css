@@ -1,4 +1,8 @@
 
+body {
+    font-family: 'Open Sans', sans-serif;
+} 
+
 .navbar {
     background: none;
   }
@@ -6,32 +10,26 @@
     padding: 0;
     width: 35vw;
     float: left;
-    
     padding-rigt: 50px;    
 }
 
 .carousel-inner img {
-
     height: 50em;
-
 }
 
 .logo { 
     height: 2vw;
     margin-bottom: 20px;
-    
     }
 
  .logo img{
    
    width: 8%;
     fill: none;
-
  }
 
  .navbar ul{
     margin-left: 50%;
-
  }
 
 section h2{
@@ -40,9 +38,7 @@ section h2{
 }
 
  .fondo{
-    
     background-color: black;
-
  }
  
 .color-fav{
@@ -51,21 +47,26 @@ section h2{
 
 section p {
     color:white;
-
-
 }
 
 .card-body {
     color:white;
     text-align: left;
-
-
 }
 
 .card img{
-
     height: 150px;
+}
+
+footer {
+    color: white;
+}
+
+footer h3 {
+
+    font-weight: bold;
 
 
 }
+
  
